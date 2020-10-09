@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on: a personal site!
+- 🌱 I’m currently learning: light web-dev!
+- 👯 I’m looking to collaborate on: anything interesting!
+- 🤔 I’m a former intern at: Amazon & Harman
+- 💬 Ask me about: photography?
+- ⚡ Fun fact: this is how to [make a profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
 <!--
 **benji1123/benji1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
