@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning: light web-dev!
+- 🌱 I’m currently learning: web-dev (v simple stuff), ML (class)!
 - 💬 Ask me about: photography?
 - ⚡ Fun fact: this is how to [make a profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
