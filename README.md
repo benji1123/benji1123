@@ -5,4 +5,5 @@
 
 <!-- [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) -->
 
-![](https://media.githubusercontent.com/media/benji1123/https-benli99.xyz/master/media/background/cyber/cyber5fps_lights_looped.gif)
+<!--  FYI this is pretty large -->
+![](https://media.githubusercontent.com/media/benji1123/https-benli99.xyz/master/media/background/cyber/cyber.gif)
